@@ -38,7 +38,7 @@ set1.update([5,6]) # Argument must be a list
     # Polymorphism
     # Abstraction
     # Inheritance
-    # Encapsulation
+    # Encapsulation (Is is whose whose)
 
 # -- Class --
 # It's a blueprint of the object we will create
@@ -51,12 +51,12 @@ set1.update([5,6]) # Argument must be a list
 
 # -- Method --
 # It's like a Python function.
-# Must be called on a object.
-# It must put it inside a class.
+# Must be called on an object.
+# We must put it inside a class.
 # A method has a name, ans may take parameters ans have a return statement.
 set1 = set()
 set2 = set()
-set2.union(set1) # Called the method using it's object.
+set2.union(set1) # Called the method using 'set2' object.
 
 # -- Encapsulation --
 # Not disturbing other objects Atributes ans Behviors.
